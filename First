@@ -1,0 +1,7 @@
+class Vova {
+public static void main (string [] agrs) {
+int x;
+x = 5;
+system.out.print(x);
+}
+}
